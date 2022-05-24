@@ -1,7 +1,54 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/05/11 14:46:34",
+      "オフィス",
+      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
+      "35.730091",
+      "139.73754",
+      "株式会社Geolonia",
+      "株式会社Geoloniaの東京オフィスです",
+      "",
+      "geoloniamap",
+      "https://geolonia.com"
+    ],
+    [
+      "2022/05/23 11:18:34",
+      "オフィス",
+      "https://kklab.mobi/kklabTrip2022/aict.png",
+      "37.49223",
+      "139.93014",
+      "スマートシティＡｉＣＴ",
+      "「スマートシティ会津若松」の取組みの一環として、首都圏などのICT関連企業が機能移転できる受け皿として整備されたオフィス環境（及び、オフィス周辺エリアの総称）。",
+      "",
+      "aizuwakamatsuIV",
+      "https://aizu-aiyumu.co.jp/"
+    ],
+    [
+      "2022/05/23 13:19:34",
+      "大学",
+      "https://kklab.mobi/kklabTrip2022/ncu.png",
+      "35.13821",
+      "136.92641",
+      "名古屋市立大学",
+      " 我らが母校、名古屋市立大学滝子キャンパス",
+      "",
+      "kklab_info",
+      "https://www.econ.nagoya-cu.ac.jp/"
+    ]
+  ]
 }
